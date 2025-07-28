@@ -17,3 +17,10 @@ Key Results
 -Mean Reversion Rate: 64.23%
 -Backtest Win Rate: 77.14%
 -Total P&L: 6.10
+
+After running the backtest on the synthetic data, the strategy yielded the following results:
+
+Total Net P&L: 4.35
+Total Trades: 35
+Win Rate: 74.29%
+Sharpe Ratio: 0.37
